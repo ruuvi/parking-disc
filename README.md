@@ -23,3 +23,6 @@ Ruuvi Innovations Oy ehdottaa, että **aivan kaikki** toteutetaan avoimena kaupa
 Projektin perimmäisenä tarkoituksena ei ole vähentää pysäköinnintarkastajien määrää, mutta modernin teknologian hyödyntäminen tulisi edesauttamaan tarkastajien mahdollisuutta käyttää aikaansa tehokkaammin tärkeimpien tehtävien hoitamiseen.
 
 Ratkaisua toteutettaessa on etsittävä joihinkin yksityiskohtiin parhaat toteutustavat. Hyödynnettävissä oleva teknologia on kuitenkin jo niin korkeatasoista ja mahdollisuudet lähes rajattomat, että tämä ei tule olemaan suuri hidaste.
+
+### Yhteys
+[Lisätietoa](info@ruuvi.com) ratkaisusta.
