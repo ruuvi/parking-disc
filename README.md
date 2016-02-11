@@ -3,6 +3,8 @@
 [Hankkeessa](http://www.hel.fi/www/helsinki/fi/kaupunki-ja-hallinto/strategia-ja-talous/innovaatiorahasto/hankkeet-2015/digitaalinen-pysakointikiekko) pyritään kehittämään digitaalinen pysäköintikiekko innovatiivisen kilpailun avulla. Kiekko olisi koneellisesti valvottava ja korvaisi 35 vuotta käytössä olleen pysäköintikiekon. Kilpailun päätavoitteena on todentaa teknologian mahdollisuudet toimia yhtenä keskeisenä liikennetiedon lähteenä. Kokeilun tuloksena luodaan uusi lainsäädännöllinen standardi, mikä mahdollistaa digitaalisen pysäköintikiekon jatkuvan päivittämisen ja tuotekehityksen.
 
 ## Ratkaisu
+![](https://raw.githubusercontent.com/ruuvi/parking-disc/master/dip.jpg)
+
 Ajoneuvoihin sijoitetaan keskenään [mesh-verkon](https://en.wikipedia.org/wiki/Mesh_networking) muodostavat [RuuviTag-anturimajakan](https://github.com/ruuvi/brand/raw/master/ruuvitag_factsheet_2015/ruuvitag_factsheet_2015.pdf) teknologiaan perustuvat digitaaliset parkkikiekot (DiP), jotka huomaavat automaattisesti kuinka kauan ajoneuvo on seissyt parkkiruudussa. Paristo kestää laitteen eliniän. Pysäköinnintarkastaja saa älypuhelimeensa automaattisesti notifikaation, kun joku aika on ylittynyt. Käyttäjä saa halutessaan puhelimeensa notifikaation kun parkkiaika lähenee loppuaan. **Käyttäjän ei tarvitse tehdä pysäköidessään mitään.** Nykyaikaista teknologiaa innovatiivisella tavalla hyödyntämällä on mahdollista toteuttaa kuvaamamme järjestelmä, jossa ei vaadita käyttäjältä aktiivisuutta eikä unohduksista sakoteta.
 
 ### Elektroniikka
