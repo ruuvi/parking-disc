@@ -25,4 +25,4 @@ Projektin perimmäisenä tarkoituksena ei ole vähentää pysäköinnintarkastaj
 Ratkaisua toteutettaessa on etsittävä joihinkin yksityiskohtiin parhaat toteutustavat. Hyödynnettävissä oleva teknologia on kuitenkin jo niin korkeatasoista ja mahdollisuudet lähes rajattomat, että tämä ei tule olemaan suuri hidaste.
 
 ### Yhteys
-[Lisätietoa](info@ruuvi.com) ratkaisusta.
+Lisätietoa ratkaisusta: <info@ruuvi.com>
