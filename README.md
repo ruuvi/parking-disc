@@ -1,6 +1,6 @@
 # DiP - Digitaalinen pysäköintikiekko
 
-[Hankkeessa](http://www.hel.fi/www/helsinki/fi/kaupunki-ja-hallinto/strategia-ja-talous/innovaatiorahasto/hankkeet-2015/digitaalinen-pysakointikiekko) pyritään kehittämään digitaalinen pysäköintikiekko innovatiivisen kilpailun avulla. Kiekko olisi koneellisesti valvottava ja korvaisi 35 vuotta käytössä olleen pysäköintikiekon. Kilpailun päätavoitteena on todentaa teknologian mahdollisuudet toimia yhtenä keskeisenä liikennetiedon lähteenä. Kokeilun tuloksena luodaan uusi lainsäädännöllinen standardi, mikä mahdollistaa digitaalisen pysäköintikiekon jatkuvan päivittämisen ja tuotekehityksen.
+*"[Hankkeessa](http://www.hel.fi/www/helsinki/fi/kaupunki-ja-hallinto/strategia-ja-talous/innovaatiorahasto/hankkeet-2015/digitaalinen-pysakointikiekko) pyritään kehittämään digitaalinen pysäköintikiekko innovatiivisen kilpailun avulla. Kiekko olisi koneellisesti valvottava ja korvaisi 35 vuotta käytössä olleen pysäköintikiekon. Kilpailun päätavoitteena on todentaa teknologian mahdollisuudet toimia yhtenä keskeisenä liikennetiedon lähteenä. Kokeilun tuloksena luodaan uusi lainsäädännöllinen standardi, mikä mahdollistaa digitaalisen pysäköintikiekon jatkuvan päivittämisen ja tuotekehityksen."*
 
 ## Ratkaisu
 ![](https://raw.githubusercontent.com/ruuvi/parking-disc/master/dip.jpg)
